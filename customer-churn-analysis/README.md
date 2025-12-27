@@ -142,5 +142,5 @@ This project demonstrates how data science can support business decisions by:
 - Deploy as a business dashboard
 
 ## Author
-Ibrahim Buhari
+** Ibrahim Buhari **
 Aspiring Data Scientist
