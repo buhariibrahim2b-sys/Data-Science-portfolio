@@ -141,6 +141,6 @@ This project demonstrates how data science can support business decisions by:
 - Incorporate cost-sensitive evaluation
 - Deploy as a business dashboard
 
-##Author
+## Author
 Ibrahim Buhari
 Aspiring Data Scientist
