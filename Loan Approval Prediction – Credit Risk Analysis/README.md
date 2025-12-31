@@ -130,3 +130,8 @@ This indicates strong ability to distinguish between approved and rejected loans
 - Introduce cost-sensitive learning
 
 - Test model generalization on unseen datasets
+
+## Author
+Ibrahim Buhari
+
+Aspiring Data Scientist
